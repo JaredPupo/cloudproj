@@ -1,0 +1,132 @@
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+
+Estudiantes encontrados en el controller: Array
+(
+    [0] => Array
+        (
+            [student_id] => 840206745
+            [name] => Daisy
+            [lastName] => Escalante
+            [year_of_study] => 1
+        )
+
+)
+

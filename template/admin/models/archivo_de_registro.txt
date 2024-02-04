@@ -1,0 +1,4 @@
+lLEGUE al update de la secciones MODEL
+El course id es: CCOM3001
+La capacidad de la clase es: 3
+La section id es: M10
